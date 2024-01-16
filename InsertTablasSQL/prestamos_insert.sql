@@ -1,0 +1,15 @@
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('9/1/2024', '25/1/2024', '395301323-8', 1);
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('10/1/2024', '28/1/2024', '859672610-1', 39);
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('3/1/2024', '29/1/2024', '205479649-2', 33);
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('11/1/2024', '27/1/2024', '205479649-2', 17);
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('5/1/2024', '30/1/2024', '443828953-X', 11);
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('3/1/2024', '29/1/2024', '205479649-2', 6);
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('9/1/2024', '20/1/2024', '586566860-9', 22);
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('6/1/2024', '22/1/2024', '859672610-1', 8);
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('9/1/2024', '21/1/2024', '443828953-X', 37);
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('12/1/2024', '20/1/2024', '586566860-9', 9);
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('2/1/2024', '29/1/2024', '205479649-2', 1);
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('3/1/2024', '18/1/2024', '205479649-2', 1);
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('10/1/2024', '30/1/2024', '586566860-9', 7);
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('10/1/2024', '17/1/2024', '443828953-X', 21);
+insert into prestamos (fecha_prestamos, fecha_devolucion_esperada, ISBN_id_fk, lector_id_fk) values ('2/1/2024', '17/1/2024', '395301323-8', 38);

@@ -1,0 +1,17 @@
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('205479649-2', 12);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('503126747-X', 15);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('631962524-4', 5);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('793331351-5', 16);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('631962524-4', 7);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('721798418-1', 4);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('586566860-9', 9);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('685102948-0', 2);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('503126747-X', 8);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('876389484-X', 15);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('685102948-0', 2);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('503126747-X', 18);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('876389484-X', 14);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('793331351-5', 12);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('503126747-X', 15);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('205479649-2', 12);
+insert into libros_categorias (ISBN_id_fk, categoria_id_fk) values ('503126747-X', 20);
